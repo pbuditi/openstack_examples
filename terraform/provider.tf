@@ -4,3 +4,4 @@ provider "openstack" {
   password  = "${var.openstack_password}"
   auth_url  = "${var.openstack_auth_url}"
 }
+
